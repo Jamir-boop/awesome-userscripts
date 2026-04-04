@@ -31,7 +31,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Brave](#-brave)
   - [ChatGPT](#-chatgpt)
   - [Discord](#-discord)
-  - [Whatsapp](#-**whatsapp**)
+  - [WhatsApp](#-whatsapp)
   - [Display](#-display)
   - [DuckDuckGo](#-duckduckgo)
   - [GitHub](#-github)
@@ -902,7 +902,8 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://userstyles.world/style/15428">Whatsapp privacy</a> - Privacy focused styles. </summary><br>
     <blockquote>
         <a href="https://userstyles.world/style/15428">
-            <img width=511 src="https://userstyles.world/preview/15428/5.jpeg"></a>
+            <img width=511 src="https://userstyles.world/preview/15428/5.jpeg">
+        </a>
     </blockquote>
     <blockquote>
         💾 <a href="https://userstyles.world/style/15428">
